@@ -1,8 +1,7 @@
 # Vinícius Brito
-Olá, eu sou o Vinícius tenho 26 anos e trabalho na área da tecnolgia a 5 anos.<br> 
-Estou me formando no curso de Análise e Desenvovlimento de Sistema pela FMU agora em Dezembro de 2024.<br>
-Atualmente trabalho como Analista de Suporte mas tenho interesse em migrar para Desenvolvimento e para isso estou estudando Java como minha linguagem de programação principal.
-
+Olá, eu sou o Vinícius Brito, tenho 26 anos e trabalho na área de tecnologia há 5 anos e me formo no curso de Análise e Desenvolvimento de Sistemas em dezembro de 2024.\
+\
+Atualmente, trabalho como Analista de Suporte, mas possuo interesse em migrar para a área de Desenvolvimento, e, para isso, estudo Java como minha linguagem principal de programação.
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
